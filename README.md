@@ -9,7 +9,7 @@ Language Support: Tons of languages that you can use to translate.
 
 # Dependencies
 Make sure to install the required Python libraries before running the script:
-pip install customtkinter googletrans==4.0.0-rc1
+"pip install customtkinter googletrans==4.0.0-rc1"
 
 # Usage
 Run the script, and the Translator App window will appear.
